@@ -162,10 +162,10 @@ Steps followed:
 
 ## 🙌 Author
 
-**Satya (Satyashry P)**
+**  Satyashry **
 
 * GitHub: https://github.com/satyashry
-* LinkedIn: https://www.linkedin.com/in/satyashry
+* LinkedIn: in/psatyashry24
 
 ---
 
