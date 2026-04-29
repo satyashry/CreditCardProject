@@ -124,7 +124,11 @@
 
         .page-header h2 span {
             background: linear-gradient(90deg, var(--accent), var(--accent2));
+
+            background-clip: text;
             -webkit-background-clip: text;
+
+            color: transparent;
             -webkit-text-fill-color: transparent;
         }
 
@@ -305,7 +309,9 @@
             font-size: 2.4rem;
             font-weight: 800;
             background: linear-gradient(90deg, var(--accent), var(--accent2));
+            background-clip: text;
             -webkit-background-clip: text;
+            color: transparent;
             -webkit-text-fill-color: transparent;
             line-height: 1;
         }
